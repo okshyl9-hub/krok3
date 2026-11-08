@@ -1,0 +1,17 @@
+{
+  "name": "КРОК 3 Тренажер",
+  "short_name": "КРОК 3",
+  "description": "Тренування тестів КРОК 3 з власної бази",
+  "lang": "uk",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#eaf2fb",
+  "theme_color": "#eaf2fb",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

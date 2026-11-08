@@ -1,0 +1,41 @@
+{
+  "version": "20261109-003657",
+  "bases": [
+    {
+      "id": "kardiologia",
+      "title": "Кардіологія",
+      "file": "data/kardiologia.json",
+      "count": 268
+    },
+    {
+      "id": "pulmonologia_1",
+      "title": "Пульмонологія",
+      "file": "data/pulmonologia_1.json",
+      "count": 92
+    },
+    {
+      "id": "gastroenterologia",
+      "title": "Гастроентерологія",
+      "file": "data/gastroenterologia.json",
+      "count": 77
+    },
+    {
+      "id": "gematologia",
+      "title": "Гематологія",
+      "file": "data/gematologia.json",
+      "count": 57
+    },
+    {
+      "id": "endokrynologia",
+      "title": "Ендокринологія",
+      "file": "data/endokrynologia.json",
+      "count": 60
+    },
+    {
+      "id": "revmatologia",
+      "title": "Ревматологія",
+      "file": "data/revmatologia.json",
+      "count": 47
+    }
+  ]
+}
